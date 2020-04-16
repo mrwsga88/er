@@ -36,4 +36,5 @@ Our own meterpreter (based on Metasploit):
 [![Python script + DLL Injection with BoomER](https://img.youtube.com/vi/We_0tOdgkuc/0.jpg)](https://www.youtube.com/watch?v=We_0tOdgkuc)
 
 ### *BoomER - macOS Privilege Escalation*
-[![BoomER - macOS Privilege Escalation](https://img.youtube.com/vi/SMl2wcEo73s/0.jpg)](https://www.youtube.com/watch?v=SMl2wcEo73s)
+[![BoomER - macOS Privilege Escalation](https://img.youtube.com/vi/SMl2wcEo73s/0.jpg)](https://www.youtube.com/watch?v=SMl2wcEo73
+gitclone
